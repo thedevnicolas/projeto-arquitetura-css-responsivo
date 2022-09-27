@@ -3,21 +3,31 @@
 ## **Para acessar o site, [*clique aqui*](https://thedevnicolas.github.io/projeto-arquitetura-css-responsivo/)**
 
 ### Execução
-Projeto proposto pela Rocketseat, no curso Discover, para criação de uma página com uma lista de links que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido.
+Projeto de uma página de receitas desenvolvido durante a formação Front-end da Alura para trabalhar com métodos ágeis, responsividade e media query.
 
 ### **Habilidades praticadas** 
-- Estrutura HTML, *links*
-- Estilização com CSS, utilizando *FlexBox*;
-- Etilização com CSS, utilizando *hover*;
+- Estrutura HTML básica;
+- Estilização com CSS, utilizando *FlexBox, MediaQueries , responsividade e metodologias*;
+
+### **O que aprendi?**
+- Metodologia Atomic Design;
+- Metodologia BEM;
+- Um padrão para nomear as classes de CSS;
+- A utilizar seletores CSS mais simples;
+- A organizar e estruturar os arquivos css do projeto;
+- Boas práticas com importação de imagens;
+- A manter as estilizações nos arquivos de estilo;
+- Imagens ilustrativas devem estar referenciadas em nossos arquivos .css;
+- Como configurar a adaptação do site a diferentes tamanhos de tela.
 
 ## **Previews**:
 
 ### **Monitor**
+#### **Clique no Play para reproduzir o vídeo**
 
-![web](https://user-images.githubusercontent.com/110689312/192368429-f6695f50-5cbc-4856-b79b-bd6b86c17c72.jpg)
+![AnimaçãoWeb](https://user-images.githubusercontent.com/110689312/192534414-04932329-6ad9-44f8-8490-74eb6d7d6302.gif)
 
 ### **Mobile**
+#### **Clique no Play para reproduzir o vídeo**
 
-![mobile](https://user-images.githubusercontent.com/110689312/192368419-2381266f-e3d2-4df4-abdf-b7033e03e753.jpg)
-
- 
+![AnimaçãoMobilee](https://user-images.githubusercontent.com/110689312/192535982-478f4140-d9a5-4550-806c-b4d0f1194f77.gif)
