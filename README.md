@@ -7,7 +7,7 @@ Projeto de uma página de receitas desenvolvido durante a formação Front-end d
 
 ### **Habilidades praticadas** 
 - Estrutura HTML básica;
-- Estilização com CSS, utilizando *FlexBox, MediaQueries , responsividade e metodologias*;
+- Estilização com CSS, utilizando *FlexBox, MediaQueries , responsividade e metodologias*.
 
 ### **O que aprendi?**
 - Metodologia Atomic Design;
